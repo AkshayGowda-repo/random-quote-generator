@@ -5,6 +5,6 @@ Live Project: https://euphonious-sawine-657641.netlify.app/
 
 
 Setup:
-you need to clone this repo to local host.
+- you need to clone this repo to local host.
 
 - run ```npm i && npm start`
